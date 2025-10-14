@@ -1,7 +1,7 @@
 ## Hi there 👋
  I'm Sang Lee
 
-🎓 **Computer Science Student**  
+🎓 **An IT Student**  
 💻 Passionate about coding, technology, and continuous learning  
 🌱 Currently exploring **JavaScript** and **Python**  
 💬 Always happy to discuss tech and share knowledge  
