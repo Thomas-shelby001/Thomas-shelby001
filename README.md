@@ -20,15 +20,13 @@
 
 ### 📊 GitHub Stats
 ![Sang Lee's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thomas-shelby001&layout=compact&theme=dark)
 
-## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=tokyonight)
 
 ![streak](https://streak-stats.demolab.com?user=Thomas-shelby001&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-shelby001&layout=compact&theme=tokyonight)
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Thomas-shelby001&theme=tokyo-night)
 
