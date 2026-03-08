@@ -17,6 +17,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Thomas-shelby001&color=blue)
+
 
 ### 📊 GitHub Stats
 ![Sang Lee's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=dark)
@@ -30,7 +32,7 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Thomas-shelby001&theme=tokyo-night)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thomas-shelby001&color=blue)
+
 ---
 
 ### 🌐 Connect with Me
