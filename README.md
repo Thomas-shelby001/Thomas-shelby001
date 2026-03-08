@@ -30,9 +30,7 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Thomas-shelby001&theme=tokyo-night)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas-shelby001&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Thomas-shelby001&color=blue)
 ---
 
 ### 🌐 Connect with Me
