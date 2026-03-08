@@ -28,7 +28,7 @@
 ![streak](https://streak-stats.demolab.com?user=Thomas-shelby001&theme=tokyonight)
 
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Thomas-shelby001&theme=tokyo-night)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=pugsly526&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thomas-shelby001&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
