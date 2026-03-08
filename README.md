@@ -30,7 +30,8 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Thomas-shelby001&theme=tokyo-night)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas-shelby001)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas-shelby001&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
