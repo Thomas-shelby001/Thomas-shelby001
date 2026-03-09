@@ -21,7 +21,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sang+Lee;Whatsapp+Bot+Developer;Welcome+to+my+GitHub+Account&center=true&width=500&height=50)
 
-![Snake animation](https://github.com/Thomas-shelby001/Thomas-shelby001/blob/output/github-contribution-grid-snake.svg)
 
 ### 📊 GitHub Stats
 ![Sang Lee's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=dark)
