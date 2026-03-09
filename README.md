@@ -19,7 +19,7 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Thomas-shelby001&color=blue)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Welcome+to+my+GitHub&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sang+Lee;Whatsapp+Bot+Developer;Welcome+to+my+GitHub&center=true&width=500&height=50)
 
 
 ### 📊 GitHub Stats
