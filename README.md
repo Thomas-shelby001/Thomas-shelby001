@@ -60,7 +60,7 @@
 
 ---
 
-<!-- 💻 Tech Stack (reduced size) -->
+<!-- 💻 Tech Stack (compact) -->
 <div align="center">
   <h3>💻 Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,mongodb,firebase,linux&perline=6" width="400" />
@@ -68,13 +68,13 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
+<!-- 📊 GitHub Stats & Most Used Languages -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-shelby001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-shelby001&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Thomas-shelby001&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -95,7 +95,7 @@
 
 ---
 
-<!-- 🐍 Contribution Snake (the one you sent) -->
+<!-- 🐍 Contribution Snake (original one you sent) -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
