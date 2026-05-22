@@ -1,64 +1,102 @@
-<div align="center">👋 Hi, I'm Sang Lee
+<!-- 🚀 Animated Gradient Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Sang+Lee;IT+Student+%26+Software+Developer;Passionate+about+coding+and+learning" alt="Typing SVG" />
+  </a>
+</p>
 
-💻 IT Student | 🤖 WhatsApp Bot Developer | 🚀 Tech Enthusiast
+<!-- 🌟 Dynamic Coding Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding animation" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile!;JavaScript+%7C+TypeScript+%7C+Python;Building+Bots+And+Cool+Projects;Always+Learning+New+Things" /><br><img src="https://komarev.com/ghpvc/?username=Thomas-shelby001&label=Profile+Views&color=0e75b6&style=for-the-badge" /></div>---
+<!-- 📌 About Me -->
+<h3 align="center">💡 About Me</h3>
+<p align="center">
+  🎓 IT Student with a deep passion for software development<br>
+  💻 Currently mastering JavaScript, TypeScript, and Python<br>
+  🌱 Always learning new technologies and building real-world projects<br>
+  💬 Open to collaborating on exciting tech initiatives and sharing knowledge<br>
+  ✨ Believer in writing clean code and continuous improvement
+</p>
 
-<div align="center">🌐 Connect With Me
+<!-- 🛠️ Animated Tech Stack (scrolling icons) -->
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,git,github,vscode&perline=5" />
+</p>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="max-width: 600px;">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,git,github,vscode,linux,docker,aws,figma" />
+  </marquee>
+</p>
 
-<a href="https://wa.me/254116266407">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a><a href="https://t.me/techlimite">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><a href="https://www.youtube.com/@SangLee-h2i">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a></div>---
+<!-- 📊 GitHub Stats & Activity Graph -->
+<h3 align="center">📊 GitHub Statistics</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-🧑‍💻 About Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Name: Sang Lee
-Role: IT Student
-Focus: Full Stack Development
-Learning:
-  - TypeScript
-  - Node.js
-  - Python
-Interests:
-  - WhatsApp Bots
-  - Web Development
-  - APIs
-  - Open Source
+<!-- 📈 Animated Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
----
+<!-- 🏆 Trophy Case -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
-<div align="center">💻 Tech Stack
+<!-- 🐍 Contribution Snake (setup GitHub Action for live version) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,mongodb,firebase,linux" /></div>---
+<!-- 📝 Random Dev Quote -->
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
-<div align="center">📊 GitHub Stats
+<!-- 🔥 Scrolling Quote -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="4" style="color:#00C2FF; font-style:italic; font-size:16px;">
+    “The only way to learn a new programming language is by writing programs in it.” — Sang Lee
+  </marquee>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-shelby001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-shelby001&theme=tokyonight&hide_border=true"/></div>---
+<!-- 👀 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
 
-<div align="center">📈 Contribution Graph
+<!-- 🌐 Connect with Me (WhatsApp, Email, Telegram) -->
+<h3 align="center">🌐 Let's Connect</h3>
+<p align="center">
+  <!-- WhatsApp: replace 1234567890 with your phone number (international format, no + or spaces) -->
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <!-- Email: replace with your actual email -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Telegram: replace yourusername with your Telegram handle (without @) -->
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-shelby001&theme=tokyo-night&hide_border=true"/></div>---
-
-<div align="center">🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thomas-shelby001&theme=tokyonight&no-frame=true&row=1&column=7"/></div>---
-
-<div align="center">🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/></div>---
-
-<div align="center">⚡ Fun Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></div>---
-
-<div align="center">✨ Quote
-
-“The only way to learn a new programming language is by writing programs in it.”
-
-🔥 Thanks for visiting my profile 🔥
-
-</div>
+<!-- 🌊 Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
