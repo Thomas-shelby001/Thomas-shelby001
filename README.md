@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- 🌟 Animated Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Sang+Lee;💻+IT+Student+|+🤖+WhatsApp+Bot+Developer;🚀+Tech+Enthusiast;Welcome+To+My+GitHub+Profile!;JavaScript+|+TypeScript+|+Python;Building+Bots+And+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
-</a>
+<!-- 🖥️ Coding GIF (guy typing on computer) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding" />
 
 <br/>
+
+<!-- 👋 Animated Welcome Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sang+Lee;IT+Student+|+Bot+Developer;JavaScript+|+TypeScript+|+Python;Building+Cool+Projects;Always+Learning" alt="Typing SVG" />
+
+<br/>
+
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Thomas-shelby001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
@@ -17,13 +21,13 @@
 <div align="center">
   <h3>🌐 Connect With Me</h3>
   <a href="https://wa.me/254116266407" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://t.me/techlimite" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@SangLee-h2i" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
 
@@ -56,14 +60,11 @@
 
 ---
 
-<!-- 💻 Animated Tech Stack -->
+<!-- 💻 Tech Stack (reduced size) -->
 <div align="center">
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,mongodb,firebase,linux&perline=6" />
-  <!-- Scrolling extra tech icons for extra animation -->
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="max-width: 600px; margin-top: 10px;">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,mongodb,firebase,linux,react,express,nextjs,tailwind,docker,aws" />
-  </marquee>
+  <!-- Smaller main icons, perline=6 -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,mongodb,firebase,linux&perline=6" width="400" />
 </div>
 
 ---
@@ -95,7 +96,7 @@
 
 ---
 
-<!-- 🐍 Contribution Snake (live – setup GitHub Action for animation) -->
+<!-- 🐍 Contribution Snake -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <picture>
@@ -107,7 +108,7 @@
 
 ---
 
-<!-- ⚡ Fun Quote (random dev quote) -->
+<!-- ⚡ Fun Quote -->
 <div align="center">
   <h3>⚡ Fun Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -115,7 +116,7 @@
 
 ---
 
-<!-- ✨ Your Personal Quote (scrolling marquee) -->
+<!-- ✨ My Quote (scrolling) -->
 <div align="center">
   <h3>✨ My Quote</h3>
   <marquee behavior="scroll" direction="left" scrollamount="4" style="color:#00F7FF; font-style:italic; font-size:18px;">
@@ -130,7 +131,6 @@
   🔥 Thanks for visiting my profile 🔥
 </div>
 
-<!-- 🌊 Animated Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
