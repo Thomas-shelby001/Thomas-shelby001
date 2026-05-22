@@ -63,7 +63,6 @@
 <!-- 💻 Tech Stack (reduced size) -->
 <div align="center">
   <h3>💻 Tech Stack</h3>
-  <!-- Smaller main icons, perline=6 -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,mongodb,firebase,linux&perline=6" width="400" />
 </div>
 
@@ -96,14 +95,10 @@
 
 ---
 
-<!-- 🐍 Contribution Snake -->
+<!-- 🐍 Contribution Snake (the one you sent) -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-shelby001/Thomas-shelby001/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-shelby001/Thomas-shelby001/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thomas-shelby001/Thomas-shelby001/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
